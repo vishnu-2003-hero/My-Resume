@@ -1,0 +1,32 @@
+body,th{
+    background-color:darkslategray;
+}
+div{
+    background-color:teal;
+    border-radius:10px;
+    padding:10px;
+    margin:10px;
+}
+
+body div{
+    width:auto;
+    box-shadow: #555555 1px 1px 1px;
+}
+
+table {
+    text-align:center;
+    width:100%
+}
+img{
+    border-radius:50%;
+    box-shadow:3px 3px 10px black;
+}
+
+td{
+    background-color: cadetblue;
+    border-radius:10px;
+}
+
+iframe{
+    width:auto;
+}
